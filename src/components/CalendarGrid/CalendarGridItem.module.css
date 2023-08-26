@@ -1,0 +1,29 @@
+.box {
+	border-right: 1px solid var(--hairline);
+	border-bottom: 1px solid var(--hairline);
+	box-sizing: content-box;
+	height: 10rem;
+	overflow: hidden;
+	padding: 0.2rem;
+	text-align: center;
+	cursor: pointer;
+}
+
+.today {
+	display: inline;
+	border-radius: 50%;
+	background-color: var(--btn-primary);
+	margin-bottom: 0.3rem;
+}
+
+.today + ol {
+	margin-top: 0.2rem;
+}
+
+.event {
+	background-color: var(--event-primary);
+	padding-left: 0.2rem;
+	overflow: hidden;
+	margin-bottom: 0.1rem;
+	text-align: left;
+}

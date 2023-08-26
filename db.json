@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "title": "Event 1",
+      "description": "",
+      "date": "1691528400000",
+      "id": 1
+    },
+    {
+      "title": "Event 1",
+      "description": "",
+      "date": "1692219600000",
+      "id": 2
+    },
+    {
+      "title": "Event 2",
+      "description": "Event 2 ",
+      "date": "1692219600000",
+      "id": 3
+    },
+    {
+      "title": "Event 1",
+      "description": "",
+      "date": "1690837200000",
+      "id": 4
+    }
+  ]
+}

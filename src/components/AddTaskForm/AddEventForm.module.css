@@ -1,0 +1,23 @@
+.form {
+	gap: 1rem;
+	background-color: white;
+	padding: 1rem;
+}
+
+.form button {
+	align-self: flex-end;
+	width: fit-content;
+}
+
+.form input[type='text'] {
+	border: none;
+	border-bottom: 1px solid black;
+	font-size: 1.2rem;
+	padding: 0.5rem;
+}
+
+.form textarea {
+	background-color: #d1d5d7;
+	padding: 0.5rem;
+	max-height: 15rem;
+}
